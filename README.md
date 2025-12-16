@@ -25,12 +25,15 @@ python main.py
 - `requirements.txt`: 필요한 패키지
 - `highscore.txt`: 플레이 중 생성·업데이트되는 최고 점수 파일
 
-## 평가 포인트 (과제/상호평가용)
+## 포인트
 - **이벤트 기반 입력**: 스페이스바 하나로 점프/시작/재시작
 - **물리 기반 점프**: 중력·속도 적용, 공중에서 추가 점프 제한
 - **난이도 스케일링**: 시간 경과에 따른 속도 증가, 스폰 주기 단축
 - **충돌/점수 처리**: 충돌 즉시 종료, 생존 시간 기반 점수, 최고 기록 저장
 
-### 한 줄 요약
-스페이스바 하나로 즐기는, 점점 빨라지는 무한 러닝 게임.
+### 플레이 사진
+<img width="806" height="432" alt="image" src="https://github.com/user-attachments/assets/c32c2743-df9f-4243-8dc5-7d64bb857aae" />
 
+<img width="794" height="428" alt="image" src="https://github.com/user-attachments/assets/b93ac9e7-ef8b-4931-91b1-56779b5332e6" />
+
+<img width="803" height="421" alt="image" src="https://github.com/user-attachments/assets/52602f32-dc1c-4c48-98ea-6d1b533cae50" />
